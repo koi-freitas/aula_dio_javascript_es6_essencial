@@ -1,0 +1,24 @@
+{
+  "name": "aula_dio_javascript_es6_essencial",
+  "version": "1.0.0",
+  "description": "Anotações e exemplos da aula dada por Guilherme Cabrini da Silva",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koi-freitas/aula_dio_javascript_es6_essencial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koi-freitas/aula_dio_javascript_es6_essencial/issues"
+  },
+  "homepage": "https://github.com/koi-freitas/aula_dio_javascript_es6_essencial#readme"
+}
