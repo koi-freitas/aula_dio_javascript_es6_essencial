@@ -11,3 +11,6 @@ arr.slice(-1);
 
 arr.slice(-3);
 // (3) [3, 4, 5]
+
+console.log(arr);
+// (5) [1, 2, 3, 4, 5]
