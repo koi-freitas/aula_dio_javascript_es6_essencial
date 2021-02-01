@@ -9,3 +9,8 @@ const media = students.reduce((totalGrades, student) => totalGrades += student.g
 
 console.log(media);
 // 5.875
+
+const studentsNames = students.reduce((studentName, student) => studentName += student.name +' ','');
+
+console.log(studentsNames);
+// Jonny Bob Laira Thai
